@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="sizes">
+        <item>2x2</item>
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
